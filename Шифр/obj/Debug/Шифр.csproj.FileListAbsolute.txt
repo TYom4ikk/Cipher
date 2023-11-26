@@ -1,0 +1,7 @@
+C:\Users\Админ\Desktop\Cipher\Шифр\bin\Debug\Шифр.exe.config
+C:\Users\Админ\Desktop\Cipher\Шифр\bin\Debug\Шифр.exe
+C:\Users\Админ\Desktop\Cipher\Шифр\bin\Debug\Шифр.pdb
+C:\Users\Админ\Desktop\Cipher\Шифр\obj\Debug\Шифр.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Cipher\Шифр\obj\Debug\Шифр.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Cipher\Шифр\obj\Debug\Шифр.exe
+C:\Users\Админ\Desktop\Cipher\Шифр\obj\Debug\Шифр.pdb
